@@ -24,4 +24,10 @@ padding: 50px;
  margin: 0 ;
  margin-left: 10%;
  ;
+
+}
+body{
+    background-color: rgb(218, 118, 118);
+    background-image: url();
+    background-repeat: no-repeat;
 }
