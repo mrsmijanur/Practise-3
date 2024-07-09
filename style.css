@@ -1,0 +1,24 @@
+label{
+    display: block;
+    margin: 20px;
+    color: blue;
+}
+h2{
+    color: rgb(34, 8, 184);
+}
+
+section{
+background-color: rgb(190, 125, 187);
+background-repeat: no-repeat;
+text-align: center;
+margin-top: 0 auto;
+margin: 10px;
+padding: 50px;
+
+}
+#submit{
+    color: aquamarine;
+    background-color: rgb(21, 34, 145);
+    box-shadow: 5px 2px;
+ position: absolute;
+}
